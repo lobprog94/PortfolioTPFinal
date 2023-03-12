@@ -1,0 +1,40 @@
+/* *{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: blueviolet;
+    width: 100%;
+}
+.navegador{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 2px 15px;
+}
+
+.menu{
+    margin: 5px;
+}
+
+
+
+
+.imghero{
+    width: 200px;
+}
+.hero{
+    width: 800px;
+    margin: 0 auto;
+   
+}
+.franja{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: orangered;
+    
+}
+
+.espacio{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+} */
